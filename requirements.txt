@@ -1,0 +1,11 @@
+streamlit==1.36.0
+langchain==0.3.25
+langchain-community==0.3.23
+langchain-core==0.3.59
+langchain-text-splitters==0.3.8
+faiss-cpu==1.8.0
+sentence-transformers==2.3.1
+huggingface_hub==0.22.2
+rank_bm25==0.2.2
+numexpr==2.10.0
+ollama==0.2.1
